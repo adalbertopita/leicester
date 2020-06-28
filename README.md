@@ -1,28 +1,8 @@
-# Adonis API application
+# **udinese**
+![Leicester](https://futhead.cursecdn.com/static/img/20/clubs/95.png) 
+Backend em nodejs do savethisshit.
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+**Projeto WIP**
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
-
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+**stack:**
+- [AdonisJS 4.1](https://adonisjs.com/docs/4.1/installation)
